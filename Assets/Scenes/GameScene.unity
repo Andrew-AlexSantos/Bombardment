@@ -1503,7 +1503,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.12979832, y: -0.04509534, z: 0.005909458, w: 0.9904968}
+  m_LocalRotation: {x: 0.12979832, y: -0.04509538, z: 0.0059094634, w: 0.9904968}
   m_LocalPosition: {x: 16.003416, y: -11.530001, z: -18.266582}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -3221,7 +3221,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 740050502}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.12979832, y: -0.04509534, z: 0.005909458, w: 0.9904968}
+  m_LocalRotation: {x: 0.12979832, y: -0.04509538, z: 0.0059094634, w: 0.9904968}
   m_LocalPosition: {x: 16.003416, y: -11.530001, z: -18.266582}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -6357,6 +6357,16 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 296519824}
+    - target: {fileID: 3942541752927439272, guid: 80fdaeb5a264b0f41999ee0c07463553,
+        type: 3}
+      propertyPath: force.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3942541752927439272, guid: 80fdaeb5a264b0f41999ee0c07463553,
+        type: 3}
+      propertyPath: force.y
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6069983781171001477, guid: 80fdaeb5a264b0f41999ee0c07463553,
         type: 3}
       propertyPath: m_Name
@@ -6604,6 +6614,16 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 296519824}
+    - target: {fileID: 3942541752927439272, guid: 80fdaeb5a264b0f41999ee0c07463553,
+        type: 3}
+      propertyPath: force.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3942541752927439272, guid: 80fdaeb5a264b0f41999ee0c07463553,
+        type: 3}
+      propertyPath: force.y
+      value: 8
+      objectReference: {fileID: 0}
     - target: {fileID: 6069983781171001477, guid: 80fdaeb5a264b0f41999ee0c07463553,
         type: 3}
       propertyPath: m_Name
@@ -7201,6 +7221,16 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 296519824}
+    - target: {fileID: 3942541752927439272, guid: 80fdaeb5a264b0f41999ee0c07463553,
+        type: 3}
+      propertyPath: force.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3942541752927439272, guid: 80fdaeb5a264b0f41999ee0c07463553,
+        type: 3}
+      propertyPath: force.y
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 6069983781171001477, guid: 80fdaeb5a264b0f41999ee0c07463553,
         type: 3}
       propertyPath: m_Name
